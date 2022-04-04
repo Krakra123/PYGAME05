@@ -1,6 +1,4 @@
-# code by duong nguyen
 import pygame, sys, random
-from pygame.locals import *
 
 pygame.init()
 
